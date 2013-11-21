@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=No Wuckers
+android/abi=x86
+android/distribute_path=/Users/brst/Desktop
+android/keystore_alias=tbi
+android/keystore_password=guri123
+android/keystore_path=/Users/brst/Documents/Titanium_Studio_Workspace/guri
+android/recent_output=/Users/brst/Desktop
+android/sdk_version=Android 2.3.3
+eclipse.preferences.version=1
